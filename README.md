@@ -25,8 +25,8 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安装方法1（推荐）：先在苹果机上点击并安装<a href="https://apps.apple.com/us/app/testflight/id899247664">TestFlight</a>软件，然后<a href="https://testflight.apple.com/join/Ao0G8UZD">点击此处</a>安装。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安装方法2：用中国以外地区苹果帐号登录应用商店，然后<a href="https://apps.apple.com/us/app/id1533873488">点击此处</a>安装。</p>
 
-<a href="https://gitlab.com/szzdlab/pvdzfzx/raw/master/public/zfzx.webm" target="_blank">短视频 : 是自焚还是骗局?</a><br><br>
-<a href="https://gitlab.com/szzdlab/pvdzfzx/raw/master/public/zfzx.webm" type="video/mp4"><img src="https://raw.githubusercontent.com/fanqiangla/ruanjian/master/zf.jpg" onended="videoEnded(this)"></a><br>
+<a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank">短视频 : 是自焚还是骗局?</a><br><br>
+<a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank"><img src="https://raw.githubusercontent.com/fanqiangla/ruanjian/master/zf.jpg"></a><br>
 
 
 <p>如有疑问可联系邮箱fanqiangla@gmx.com </a></p>
