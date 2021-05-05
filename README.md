@@ -27,7 +27,7 @@
 
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.mp4" target="_blank">短视频 : 是自焚还是骗局?</a><br><br>
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.mp4" type=video/mp4><img src="https://raw.githubusercontent.com/fanqiangla/ruanjian/master/zf.jpg" onended="videoEnded(this)"></a><br>
-
+<video width=596 controls poster="https://raw.githubusercontent.com/fanqiangla/ruanjian/master/zf.jpg" onended="videoEnded(this)"><source src="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.mp4" type=video/mp4>Your browser does not support the video tag.</video><script type="text/javascript">function videoEnded(video) {video.load();};</script>
 
 <p>如有疑问可联系邮箱fanqiangla@gmx.com </a></p>
 
