@@ -29,7 +29,5 @@
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank"><img src="https://raw.githubusercontent.com/fanqiangla/ruanjian/master/zf.jpg"></a><br>
 
 <p>如有疑问可联系邮箱fanqiangla@gmx.com </a></p>
-<video id="video" controls="" preload="none" poster="https://raw.githubusercontent.com/fanqiangla/ruanjian/master/zf.jpg">
-          <source id="webm" src="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" type="video/webm">
-</video>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
