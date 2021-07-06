@@ -14,17 +14,15 @@
 |  ----  | ----   | ----  |----  |  
 | 环门  | [oGatea](https://cdn.jsdelivr.net/gh/opipe/up/oGatea053.apk) | [oGate](https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip)  |  -|  
 | 神州明见  | [神州明见](https://cdn.jsdelivr.net/gh/xazhws3249/www/szzd/SzzdOgate.apk) | - |  -|  
+| 聚缘阁  | [聚缘阁](https://gitlab.com/juyuange/2/-/raw/master/j603.apk) | [聚缘阁](https://gitlab.com/juyuange/2/-/raw/master/j325dn.rar) |  -|  
 | 希望之声  | [oHopea](https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/oHopea004.apk) | - |  [SOH](https://apps.apple.com/us/app/soh/id830022184?ign-mpt=uo%3D4)|  
 | epoch  | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/fq.apk) | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-win32.zip)  |  [epoch(mac版)](https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-mac.zip)|  
 
 <img src="https://raw.githubusercontent.com/fanqiangla/ruanjian/master/3.jpg">
 
-网页看新闻：<a href="https://github.com/odoor3/oo/blob/master/README.md">网门（网页精简版）</a>、<a href="https://github.com/szzd1/2">新闻热点</a>
+网页看新闻：<a href="https://github.com/odoor3/oo/blob/master/README.md">网门（网页精简版）</a>、<a href="https://github.com/szzd1/2">新闻热点</a>、<a href="https://github.com/hao2345679/jyg12/wiki/jyg">聚缘阁</a>、<a href="https://github.com/gfw-breaker/banned-news3">禁闻聚合</a>
                 
-<p>Fair VPN (苹果版)：</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安装方法1（推荐）：先在苹果机上点击并安装<a href="https://apps.apple.com/us/app/testflight/id899247664">TestFlight</a>软件，然后<a href="https://testflight.apple.com/join/Ao0G8UZD">点击此处</a>安装。</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安装方法2：用中国以外地区苹果帐号登录应用商店，然后<a href="https://apps.apple.com/us/app/id1533873488">点击此处</a>安装。</p>
-
+<p><a href="https://github.com/Alvin9999/new-pac/wiki">一键翻墙浏览器</a><p>     
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank">短视频 : 是自焚还是骗局?</a><br><br>
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank"><img src="https://raw.githubusercontent.com/fanqiangla/ruanjian/master/zf1.jpg"></a><br>
 
