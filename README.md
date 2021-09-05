@@ -25,5 +25,6 @@
 <p><a href="https://github.com/Alvin9999/new-pac/wiki">一键翻墙浏览器</a><p>     
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank">短视频 : 是自焚还是骗局?</a><br><br>
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank"><img src="https://raw.githubusercontent.com/fanqiangla/ruanjian/master/zf1.jpg"></a><br>
-
+<a href="https://gitlab.com/fanqiangla/zf/-/blob/master/%E4%BD%A0%E8%A7%81%E8%BF%87%E4%BC%9A%E8%AF%B4%E8%AF%9D%E7%9A%84%E7%9F%B3%E5%A4%B4%E5%90%97.mp4" target="_blank">短视频 : 你见过会说话的石头吗?</a><br><br>
+<a href="https://gitlab.com/fanqiangla/zf/-/blob/master/%E4%BD%A0%E8%A7%81%E8%BF%87%E4%BC%9A%E8%AF%B4%E8%AF%9D%E7%9A%84%E7%9F%B3%E5%A4%B4%E5%90%97.mp4" target="_blank"><img src="https://raw.githubusercontent.com/fanqiangla/ruanjian/master/%E7%9F%B3%E5%A4%B4.jpg"></a><br>
 <p>如有疑问可联系邮箱fanqiangla@gmx.com </a></p>
