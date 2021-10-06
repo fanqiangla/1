@@ -13,7 +13,7 @@
 |  工具  | 安卓版  | 电脑版  | 苹果版  |  
 |  ----  | ----   | ----  |----  |  
 | 环门  | [oGatea](https://gitlab.com/ofilec/up/raw/main/oGatea054.apk) | [oGate](https://cdn.jsdelivr.net/gh/ofile/up/oGate.zip)  |  -|  
-| 神州明见  | [神州明见](https://cdn.jsdelivr.net/gh/xazhws3249/www/szzd/SzzdOgate.apk) | - |  -|  
+| 神州明见  | [神州明见](https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/SzzdOgate.apk) | - |  -|  
 | 聚缘阁  | [聚缘阁](https://gitlab.com/juyuange/2/-/raw/master/j603.apk) | [聚缘阁](https://gitlab.com/juyuange/2/-/raw/master/j325dn.rar) |  -|  
 | 希望之声  | [oHopea](https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/oHopea004.apk) | - |  [SOH](https://apps.apple.com/us/app/soh/id830022184?ign-mpt=uo%3D4)|  
 | epoch  | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/fq.apk) | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-win32.zip)  |  [epoch(mac版)](https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-mac.zip)|  
