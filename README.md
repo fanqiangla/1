@@ -3,7 +3,7 @@
 |  工具  | 安卓版  | 电脑版  | 苹果版  |  
 |  ----  | ----   | ----  |----  |  
 | 无界  | [无界一点通](https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/um5.4.apk) 、[无界VPN版](https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/u2.2.6.apk) | [无界浏览](https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/u2132.zip)  |  [无界](https://github.com/wujieliulan/forum)  |  
-| 自由门  | [自由门安卓版](https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/fgma.apk)、[自由门VPN版](https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/fgvpn1.3.apk) | [自由门](https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/fg797p.zip)  |   [自由门](https://github.com/fanqiangla/zym/blob/main/README.md) |  
+| 自由门  | [自由门安卓版](https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/fgma.apk)、[自由门VPN版](https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/fgvpn1.3.apk) | [自由门](https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/fg797p.zip)  |   - |  
 | 赛风  | [Psiphon](https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/PsiphonAndroid.apk) | [Psiphon](https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/psiphon3.zip)  |  [Psiphon](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8)、 [Psiphon浏览器](https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8)|  
 
 
