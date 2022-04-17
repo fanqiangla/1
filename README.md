@@ -12,13 +12,13 @@
 |  工具  | 安卓版  | 电脑版  | 苹果版  |  
 |  ----  | ----   | ----  |----  |  
 | 神州明见  | [神州明见](https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/SzzdOgate.apk) | - |  -|  
-| 聚缘阁  | [聚缘阁](https://gitlab.com/juyuange/2/-/raw/master/j603.apk) | [聚缘阁](https://gitlab.com/juyuange/2/-/raw/master/j325dn.rar) |  -|  
+| 聚缘阁  | [聚缘阁](https://gitlab.com/j25414/jyg/-/raw/master/j331.apk) | [聚缘阁](https://gitlab.com/juyuange/2/-/raw/master/j325dn.rar) |  -|  
 | 希望之声  | [oHopea](https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/oHopea004.apk) | - |  [SOH](https://apps.apple.com/us/app/soh/id830022184?ign-mpt=uo%3D4)|  
 | epoch  | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/fq.apk) | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-win32.zip)  |  [epoch(mac版)](https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-mac.zip)|  
 
 <img src="https://raw.githubusercontent.com/fanqiangla/ruanjian/master/3.jpg">
 
-网页看新闻：<a href="https://github.com/szzd1/2">新闻热点</a>、<a href="https://github.com/hao2345679/jyg12/wiki/jyg">聚缘阁</a>、<a href="https://github.com/gfw-breaker/banned-news3">禁闻聚合</a>
+网页看新闻：<a href="https://github.com/szzd1/2">新闻热点</a>、<a href="https://bitbucket.org/ewwmakye/mo/src/master/">聚缘阁</a>、<a href="https://github.com/gfw-breaker/banned-news3">禁闻聚合</a>
                 
 <p><a href="https://github.com/Alvin9999/new-pac/wiki">一键翻墙浏览器</a><p>     
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank">短视频 : 是自焚还是骗局?</a><br><br>
