@@ -19,7 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/fanqiangla/ruanjian/master/3.jpg">
 
-网页看新闻：<a href="https://github.com/tui590285/www">新闻热点</a>、<a href="https://bitbucket.org/ewwmakye/mo/src/master/">聚缘阁</a>、<a href="https://github.com/gfw-breaker/banned-news3">禁闻聚合</a>、<a href="https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/点我.html">神州网页版</a>
+网页看新闻：<a href="https://github.com/tui590285/www">新闻热点</a>、<a href="https://bitbucket.org/ewwmakye/mo/src/master/">聚缘阁</a>、<a href="https://github.com/gfw-breaker/banned-news3">禁闻聚合</a>、<a href="https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/点我.zip">神州网页版</a>
                 
 <p><a href="https://github.com/Alvin9999/new-pac/wiki">一键翻墙浏览器</a><p>     
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank">短视频 : 是自焚还是骗局?</a><br><br>
