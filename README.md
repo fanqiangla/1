@@ -1,4 +1,4 @@
-![图片](https://github.com/fanqiangla/1/assets/44804247/785283e3-96a9-4295-b1f6-5bd437aa99d6)<img src="https://gitlab.com/fanqiangla/ruanjian/-/raw/master/1.jpg">
+<img src="https://gitlab.com/fanqiangla/ruanjian/-/raw/master/1.jpg">
 
 |  工具  | 安卓版  | 电脑版  | 苹果版  |  
 |  ----  | ----   | ----  |----  |  
