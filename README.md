@@ -12,14 +12,14 @@
 
 |  工具  | 安卓版  | 电脑版  | 苹果版  |  
 |  ----  | ----   | ----  |----  |  
-| 神州明见  | [神州安卓版](https://gitlab.com/fanqiangla/ruanjian/-/raw/master/szmj_v6.5.apk) 、[神州TV版](https://gitlab.com/fanqiangla/ruanjian/-/raw/master/szmjtv_v6.5.apk)| - |  -|  
+| 神州明见  | [神州安卓版](https://github.com/szmj0/update/blob/main/extras/szmj-v6.7.2023060101.apk) 、[神州TV版](https://github.com/szmj0/update/blob/main/extras/szmjtv-v6.7.2023060101.apk)| - |  -|  
 | 退党中心  | [退党中心](https://gitlab.com/fanqiangla/ruanjian/-/raw/master/td-sj.zip) | [退党中心](https://github.com/fanqiangla/ruanjian/releases/download/td/td-pc.zip) |  [退党中心](https://github.com/fanqiangla/td-ios) |  
 | 希望之声  | - | - |  [SOH](https://apps.apple.com/us/app/soh/id830022184?ign-mpt=uo%3D4)|  
 | epoch  | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/fq.apk) | [epoch](https://github.com/fqcdn/fq/releases/download/v1.0.0/epoch_access-1.0.1-win32.zip)  |  - |  
 
 <img src="https://gitlab.com/fanqiangla/ruanjian/-/raw/master/3.jpg">
 
-网页看新闻：<a href="https://github.com/uuu3/u/blob/master/u.md?flcam#1">新闻热点</a>、<a href="https://gitlab.com/fanqiangla/ruanjian/-/raw/master/web2.0.zip">神州网页版</a>
+网页看新闻：<a href="https://github.com/uuu3/u/blob/master/u.md?flcam#1">新闻热点</a>、<a href="https://github.com/szmj0/update/blob/main/extras/SZZD_PC/szmjweb.3.0.zip">神州网页版</a>
                 
 <p><a href="https://github.com/Alvin9999/new-pac/wiki">一键翻墙浏览器</a><p>     
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank">短视频 : 是自焚还是骗局?</a><br><br>
