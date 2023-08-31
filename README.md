@@ -26,4 +26,6 @@
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank"><img src="https://gitlab.com/fanqiangla/ruanjian/-/raw/master/zf1.jpg"></a><br>
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/1.webm" target="_blank">短视频 : 你见过会说话的石头吗?</a><br><br>
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/1.webm" target="_blank"><img src="https://gitlab.com/fanqiangla/ruanjian/-/raw/master/%E7%9F%B3%E5%A4%B4.jpg"></a><br>
-<p>如有疑问可联系邮箱fanqiangla@gmx.com </a></p>
+<p>如有疑问可联系邮箱fanqiangla@gmx.com </a></p> 
+<p><a href="https://gitlab.com/xinwen8/8/-/blob/main/README.md">备用网址1</a><p>   
+<p><a href="https://xinwen8.github.io">备用网址2</a><p>  
