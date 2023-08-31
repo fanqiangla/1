@@ -19,7 +19,7 @@
 
 <img src="https://gitlab.com/fanqiangla/ruanjian/-/raw/master/3.jpg">
 
-网页看新闻：<a href="https://github.com/uuu3/u/blob/master/u.md?flcam#1">新闻热点</a>、<a href="https://raw.githubusercontent.com/szmj0/update/main/extras/SZZD_PC/szmjweb.3.0.zip">神州网页版</a>
+网页看新闻：<a href="https://github.com/uuu3/u/blob/master/u.md">新闻热点</a>、<a href="https://raw.githubusercontent.com/szmj0/update/main/extras/SZZD_PC/szmjweb.3.0.zip">神州网页版</a>
                 
 <p><a href="https://github.com/Alvin9999/new-pac/wiki">一键翻墙浏览器</a><p>     
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank">短视频 : 是自焚还是骗局?</a><br><br>
