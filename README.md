@@ -4,7 +4,7 @@
 |  ----  | ----   | ----  |----  |  
 | 无界  | [无界一点通](https://gitlab.com/fanqiangla/ruanjian/-/raw/master/um5.4.apk) 、[无界VPN版](https://gitlab.com/fanqiangla/ruanjian/-/raw/master/vpn2.3.0.apk) | [无界浏览](https://gitlab.com/fanqiangla/ruanjian/-/raw/master/u2132.zip)  |  [无界](https://github.com/wujieliulan/forum#%E8%8B%B9%E6%9E%9C%E7%89%88-%E6%97%A0%E7%95%8Cvpn-101-%E6%94%AF%E6%8C%81-iphone-5s-%E4%BB%A5%E4%B8%8A)  |  
 | 自由门  | [自由门](https://gitlab.com/xinwen8/rj/-/raw/main/fg1.4.apk) | [自由门](https://gitlab.com/fanqiangla/ruanjian/-/raw/master/fg799p.zip)  |   - |  
-| nthLink  | [nthLink](https://s3.us-west-1.amazonaws.com/dwo-jar-kmf-883/nthlink-6_0_5.apk) | [nthLink](https://s3.us-west-1.amazonaws.com/dwo-jar-kmf-883/nthlink-win-6_2_3.exe)  |  [nthLink(iOS)](https://apps.apple.com/us/app/nthlink/id1467297604) 、[nthLink(mac)](https://apps.apple.com/us/app/nthlink/id1536318872?mt=12) |  
+| nthLink  | [nthLink](https://s3.us-west-1.amazonaws.com/dwo-jar-kmf-883/nthlink-6_0_5.apk) | [nthLink](https://s3.us-west-1.amazonaws.com/dwo-jar-kmf-883/nthlink-win-6_2_3.exe)  |  [iOS](https://apps.apple.com/us/app/nthlink/id1467297604) 、[mac](https://apps.apple.com/us/app/nthlink/id1536318872?mt=12)|  
 | 赛风  | [Psiphon](https://gitlab.com/xinwen8/rj/-/raw/main/PsiphonAndroid.apk) | [Psiphon](https://gitlab.com/xinwen8/rj/-/raw/main/psiphon3.zip)  |  [Psiphon](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8)、 [Psiphon浏览器](https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8)|  
 
 
