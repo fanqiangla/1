@@ -2,8 +2,7 @@
 </a><strong>真实新闻:</strong>
 </h2>
 <p><details><summary>网页版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ggithub.xyz/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93/">直翻海外 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cuyou.github.io/">神州明见广传平台 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/zhifan999/fq/-/wikis/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93">直翻海外 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/shenzhouzhengdao/w/blob/master/README.md">新闻热点</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/xinwen8/rj/-/raw/main/szmjweb.3.0.zip">神州html网页版</a></p>
 </details>
@@ -54,7 +53,7 @@
 <h2>
 </a><strong>其它：</strong>
 </h2>
-<p><a href="https://ggithub.xyz/Alvin9999/new-pac/wiki">一键翻墙浏览器</a><p>     
+<p><a href="https://gitlab.com/zhifan999/fq/-/wikis/home">一键翻墙浏览器</a><p>     
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank">短视频 : 是自焚还是骗局?</a><br><br>
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank"><img src="https://gitlab.com/fanqiangla/ruanjian/-/raw/master/zf1.jpg"></a><br>
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/1.webm" target="_blank">短视频 : 你见过会说话的石头吗?</a><br><br>
