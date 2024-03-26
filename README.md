@@ -61,5 +61,5 @@
 
 <hr>
 <p>如有疑问可联系邮箱fanqiangla@gmx.com</p>
-<p><a href="https://gitlab.com/xinwen8/8/-/blob/main/README.md">备用网址1</a><p>   
+<p><a href="https://gitlab.com/xinwen8/8/-/blob/main/README.md#%E7%9C%9F%E5%AE%9E%E6%96%B0%E9%97%BB">备用网址1</a><p>   
 <p><a href="https://xinwen8.github.io">备用网址2</a><p>  
